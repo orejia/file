@@ -1,2 +1,4 @@
-# file
-文件操作API封装
+# Add:
+    timestamp(c)
+    read by text with line(c)
+    read by text with block(c)
